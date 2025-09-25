@@ -13,3 +13,6 @@ print(version)
 version = f"{a}.{b}.{c+1}"
 
 # version = v0.1.1
+
+# adding print patch 
+print(version)
